@@ -1,2 +1,1 @@
-# Statistics
-Statistics Notes 
+# T-test-an-Correlation-using-python
